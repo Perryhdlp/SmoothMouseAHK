@@ -43,6 +43,3 @@ This script uses the DllCall function from the Windows API to move the mouse cur
 - If the beep sound doesn't play or is too loud, adjust the values of `beep_frequency` and `beep_duration`.
 - If you encounter any issues or have questions, refer to the AutoHotkey documentation or community forums.
 
-## License
-
-This script is released under the [MIT License](LICENSE).
